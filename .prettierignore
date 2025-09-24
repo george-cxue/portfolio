@@ -1,0 +1,9 @@
+# Ignore dependencies and build outputs
+node_modules
+.next
+dist
+build
+
+# Ignore package lock files
+package-lock.json
+yarn.lock
